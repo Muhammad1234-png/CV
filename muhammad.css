@@ -1,0 +1,42 @@
+#hello {
+    font-family: sans-serif;
+    font-size: 50px;
+    color: green;
+    text-align: center;
+}
+body{
+    background-color: azure;
+}
+#introduction{
+    font-size: 35px;
+    color: #33f4;
+    
+}
+img {
+    border-box: 3px;
+    display: relative;
+    border-radius:50px;
+}
+#main{
+    
+    font-size: 50px;
+    color: blue;
+}
+#btn{
+    color: blue;
+    font-size: 50px;
+    text-align: center;
+}
+#contact{
+    font-size: 40px;
+    text-align: center;
+}
+#list{
+    font-size: 35px;
+    text-align:relative;
+}
+#hub{
+    font-size:35px;
+    text-align: center;
+    color: green;
+}
